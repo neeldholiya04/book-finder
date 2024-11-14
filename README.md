@@ -24,7 +24,7 @@ Book Finder is a React web application that allows users to search for books usi
 - **Animations**: Smooth transitions and hover effects for a better user experience.
 
 ## Demo
-You can view the live demo of the Book Finder app [here](https://your-live-demo-url.com).
+You can view the live demo of the Book Finder app [here](https://book-finder-cyan-delta.vercel.app/).
 
 ## Tech Stack
 - **React**: Frontend framework
